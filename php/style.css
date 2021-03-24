@@ -1,0 +1,8 @@
+table{
+    border-collapse: collapse
+}
+#div_1{
+    background: rgb(74, 8, 100);
+    width: 100%;
+    height: 100vh;
+}
